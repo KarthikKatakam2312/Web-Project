@@ -40,9 +40,7 @@ These endpoints assist in order handling, enabling order placement, viewing, upd
 
 ## Running the Server
 
-- Run: uvicorn main:app (Replace 'main' with your script name).
-
-Upon running the server, it will display a URL (http://127.0.0.1:8000). Open it in a browser and append '/docs' to access FastAPI's interface (http://127.0.0.1:8000/docs), where you can perform CRUD operations on all endpoints.
+Upon running the server, it will display a URL (http://127.0.0.1:8000).
 
 ### Note for POST Requests
 
